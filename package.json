@@ -11,6 +11,7 @@
   "dependencies": {
     "d3-geo": "^3.1.0",
     "mercator-projection": "^0.0.2",
-    "three": "^0.124.0"
+    "three": "^0.124.0",
+    "vite": "^4.4.0"
   }
 }
